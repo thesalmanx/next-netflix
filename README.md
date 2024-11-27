@@ -4,8 +4,6 @@
 
 This is a repository for a FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=mqUN4N2q4qY)
-
 Features:
 
 - Environment, Typescript, NextJS Setup
@@ -17,10 +15,6 @@ Features:
 - Detail-oriented effects and animations using TailwindCSS
 - React SWR data fetching
 - Zustand state management
-
-### Prerequisites
-
-**Node version 14.x**
 
 ### Cloning the repository
 
